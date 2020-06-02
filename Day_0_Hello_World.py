@@ -1,4 +1,5 @@
 # Read a full line of input from stdin and save it to our dynamically typed variable, input_string.
+#Find the complete problem statement and submission window here: https://www.hackerrank.com/challenges/30-hello-world/problem
 input_string = input()
 
 # Print a string literal saying "Hello, World." to stdout.
